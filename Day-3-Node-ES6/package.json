@@ -1,0 +1,14 @@
+{
+  "name": "day-3-node-es6",
+  "version": "1.0.0",
+  "description": "Day 3 - ES6 + Node.js + Event Loop",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "spread": "node src/es6/spread.js",
+    "destructure": "node src/es6/destructuring.js",
+    "eventloop": "node src/node/event-loop-demo.js"
+  },
+  "author": "Raghavendra T",
+  "license": "ISC"
+}

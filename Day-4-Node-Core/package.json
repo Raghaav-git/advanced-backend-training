@@ -1,0 +1,11 @@
+{
+  "name": "day-4-node-core",
+  "version": "1.0.0",
+  "description": "Node.js Modules, FS and npm practice",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Raghav",
+  "license": "ISC"
+}
